@@ -4,12 +4,13 @@
 
 ## Screenshot
 
-![screenshot](404%20Not%20found/Screenshot.png)
+![screenshot](3-column-preview-card-component-main/images/Screenshot.png)
+![screenshot](stats-preview-card-component-main/images/Screenshot.png)
 
 ## Live Demo
 
-[3 Column preview card](https://ismailco.github.io//index.html)
-[Stats preview card](https://ismailco.github.io//index.html)
+- [3 Column preview card](https://ismailco.github.io/Front-End_Mintor/3-column-preview-card-component/index.html)
+- [Stats preview card](https://ismailco.github.io/Front-End_mentor/stats-preview-card-component-main/index.html)
 
 ## Built With
 
