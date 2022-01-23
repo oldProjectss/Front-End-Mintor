@@ -1,6 +1,6 @@
-# Front-End DevChalenges
+# Front-End Mentor
 
-> This repo contain front-end projects in HTML/CSS with responsive design
+> This repo contains my implementation to front-end projects from the front-end mentor website in HTML/CSS with responsive design
 
 ## Screenshot
 
