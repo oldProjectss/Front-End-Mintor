@@ -9,8 +9,8 @@
 
 ## Live Demo
 
-- [3 Column preview card](https://ismailco.github.io/Front-End_Mintor/3-column-preview-card-component/index.html)
-- [Stats preview card](https://ismailco.github.io/Front-End_mentor/stats-preview-card-component-main/index.html)
+- [3 Column preview card](https://ismailco.github.io/Front-End_Mintor/3-column-preview-card-component-main/index.html)
+- [Stats preview card](https://ismailco.github.io/Front-End_Mintor/stats-preview-card-component-main/index.html)
 
 ## Built With
 
